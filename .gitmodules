@@ -1,0 +1,6 @@
+[submodule "sentiment-analysis-french-folder"]
+	path = sentiment-analysis-french-folder
+	url = https://huggingface.co/visalkao/sentiment-analysis-french
+[submodule "application/sentiment-analysis-french"]
+	path = application/sentiment-analysis-french
+	url = https://huggingface.co/spaces/visalkao/sentiment-analysis-french
